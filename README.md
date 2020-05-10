@@ -1,5 +1,12 @@
 # Deep Hashing Network for Efficient Similarity Retrieval
 
+# Paper
+http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12039/11892
+
+# Reference
+Zhu H , Long M , Wang J , et al. Deep Hashing Network for efficient similarity retrieval[C]// Thirtieth Aaai Conference on Artificial Intelligence. AAAI Press, 2016.
+
+
 ## REQUIREMENTS
 `pip install -r requirements.txt`
 
